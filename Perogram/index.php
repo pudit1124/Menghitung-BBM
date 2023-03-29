@@ -15,7 +15,7 @@
     <div class="col-md-12">
     <label for="waktu_tempuh" class="form-label">Jarak Tempuh (km/jam): </label>
     <input type="number" class="form-control" name="jarak_tempuh" id="waktu_tempuh">
-  </div>
+    </div>
   <div class="col-12">
     <label for="berat" class="form-label">Berat beban yang dibawa(kg): </label>
     <input type="number" class="form-control" name ="berat" id="berat" >
@@ -32,7 +32,6 @@
   <div class="col-12">
     <button type="submit" class="btn btn-success">HITUNG</button>
   </div>
-    </div>
     <div class="col-md-4"></div>
   
 </form>
